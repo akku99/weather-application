@@ -32,6 +32,7 @@ Weather-App/
 ├── requirements.txt
 ├── screenshots/
 │   ├── home_screen.png
+    ├── home_screen.png
 │   ├── weather_result.png
 │   └── invalid_city.png
 └── README.md
@@ -67,15 +68,22 @@ python app.py
 
 🔹 ### Application Home Screen
 
-![Home Screen](screenshots/home_screen.png)
+![Home Screen]
+
+<img width="697" height="818" alt="home screen" src="https://github.com/user-attachments/assets/cca7b80e-9718-4861-968a-63460dee0099" />
 
 🔹 ### Weather Search Result
 
-![Weather Result](screenshots/weather_result.png)
+![Weather Result]
+
+<img width="625" height="787" alt="weather-result" src="https://github.com/user-attachments/assets/44ee8154-7ed3-43ac-938e-9c2944a2fa15" />
+<img width="632" height="792" alt="weather-result 2" src="https://github.com/user-attachments/assets/bbb6d1c7-5684-465d-931b-5f0a19d353ff" />
 
 🔹 ### Invalid City Handling
 
-![Invalid City](screenshots/invalid_city.png)
+![Invalid City]
+
+<img width="632" height="792" alt="invalid-city" src="https://github.com/user-attachments/assets/0581ece4-e8f5-4bc4-bdc7-4235dc30946d" />
 
 ## 📌 Future Enhancements
 
