@@ -1,4 +1,4 @@
-# Weather Application
+📊 # Weather Application
 
 A GUI-based Weather Application built using Python, Tkinter, and OpenWeatherMap API that provides real-time weather information for any city.
 
@@ -13,7 +13,7 @@ A GUI-based Weather Application built using Python, Tkinter, and OpenWeatherMap 
 * Error handling for invalid city names
 * User-friendly Tkinter interface
 
-## Technologies Used
+🛠️ ## Technologies Used
 
 * Python
 * Tkinter
@@ -22,7 +22,7 @@ A GUI-based Weather Application built using Python, Tkinter, and OpenWeatherMap 
 * REST APIs
 * JSON
 
-## Project Structure
+🚀 ## Project Structure
 
 ```text
 Weather-App/
@@ -37,7 +37,7 @@ Weather-App/
 └── README.md
 ```
 
-## Installation
+📌 ## Installation
 
 1. Clone the repository
 
@@ -63,21 +63,21 @@ API_KEY = "YOUR_OPENWEATHER_API_KEY"
 python app.py
 ```
 
-## Screenshots
+📸 ## Screenshots
 
-### Application Home Screen
+🔹 ### Application Home Screen
 
 ![Home Screen](screenshots/home_screen.png)
 
-### Weather Search Result
+🔹 ### Weather Search Result
 
 ![Weather Result](screenshots/weather_result.png)
 
-### Invalid City Handling
+🔹 ### Invalid City Handling
 
 ![Invalid City](screenshots/invalid_city.png)
 
-## Future Enhancements
+📌 ## Future Enhancements
 
 * 5-day weather forecast
 * Search history
@@ -85,6 +85,3 @@ python app.py
 * Multiple city comparison
 * Weather charts and analytics
 
-## Author
-
-Akash Kumar
